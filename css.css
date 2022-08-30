@@ -1,0 +1,19 @@
+.container-body{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+}
+
+/*.first-element{
+    margin-top: 10vh;*/
+
+.btn{
+    margin-right: 1.5rem;
+}
+.solution_box{
+    display: flex;
+}
